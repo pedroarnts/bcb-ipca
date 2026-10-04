@@ -25,7 +25,7 @@ Extrair a série histórica do **IPCA (variação mensal, %)** do Sistema Gerenc
 ## Estrutura do projeto
 
 ```
-projeto/
+bcb-ipca/
 ├── pratique_ibge_bcb.ipynb   # notebook principal (código + respostas teóricas)
 ├── bcb_tabela.csv            # dado bruto, exatamente como veio da API
 ├── dados_tratados.csv        # dado tratado (CSV)
